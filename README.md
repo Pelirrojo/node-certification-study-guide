@@ -33,7 +33,6 @@ These are the materials used
 ### Working with npm and modules
 [Video: Getting Started with NPM Modules in Node.js](https://vimeo.com/124991995)    
 [Video: Node.js npm package management and module development with Tony Pujals](https://vimeo.com/88470099)    
-Nothing yet :S
 
 ### Node Concepts
 
@@ -59,6 +58,7 @@ Nothing yet :S
 [Article: Building Robust Node Applications: Error Handling](https://strongloop.com/strongblog/robust-node-applications-error-handling/)    
 
 ### Sockets
+
 Nothing yet :S    
 
 ### Clustering and Multi-Process
