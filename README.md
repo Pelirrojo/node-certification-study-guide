@@ -39,6 +39,7 @@ Nothing yet :S
 
 [Video: The Node Way](https://vimeo.com/117398512)    
 [Video: JavaScript and Node.js Fundamentals](https://vimeo.com/129487959)    
+[Video: Nodebp April 2014: The History of Node.js Streams](https://www.youtube.com/watch?v=g5ewQEuXjsQ)
 [Article: A Javascript Closures Recap](http://vaneyckt.io/posts/a_javascript_closures_recap/)    
 [Article: Why use closure](http://howtonode.org/why-use-closure)    
 
@@ -84,10 +85,6 @@ Nothing yet :S
 [ISBN 9781617290930 Node.js in Practice](http://www.manning.com/young/)    
 [ISBN 9781617292576 Node.js in Action, Second Edition](http://www.manning.com/cantelon2/)    
 [ISBN 9781119962595 Smashing Node.js: JavaScript Everywhere](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1119962595.html)
-
-
-
-        
 
 #### Thanks for your contribution.
 [PR are welcome](https://help.github.com/articles/using-pull-requests/).
