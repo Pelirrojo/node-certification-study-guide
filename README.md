@@ -56,6 +56,7 @@ Nothing yet :S
 [Video: A Night of Control Flow and Error Handling at BayNode](https://vimeo.com/97133429)    
 [Video: Node.js Asynchrony, Control-flow and Error handling w/ Adam Crabtree](https://vimeo.com/97132267)    
 [Video: https://vimeo.com/109268421](https://vimeo.com/109268421)    
+[Article: Building Robust Node Applications: Error Handling](https://strongloop.com/strongblog/robust-node-applications-error-handling/)    
 
 ### Sockets
 Nothing yet :S    
