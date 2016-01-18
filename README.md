@@ -59,7 +59,8 @@ Nothing yet :S
 
 ### Sockets
 
-Nothing yet :S    
+[Article: Real-time Engines in Node.js](https://strongloop.com/strongblog/real-time-engines-in-node-js)    
+
 
 ### Clustering and Multi-Process
 
