@@ -41,6 +41,7 @@ These are the materials used
 [Video: Nodebp April 2014: The History of Node.js Streams](https://www.youtube.com/watch?v=g5ewQEuXjsQ)
 [Article: A Javascript Closures Recap](http://vaneyckt.io/posts/a_javascript_closures_recap/)    
 [Article: Why use closure](http://howtonode.org/why-use-closure)    
+[Diagram: Node.js Class Diagram v0.8.12](https://github.com/shigeki/node-class-diagram)    
 
 ### Working with Express
 
